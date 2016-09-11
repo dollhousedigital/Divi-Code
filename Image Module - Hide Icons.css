@@ -1,0 +1,5 @@
+/*--IMAGE MODULE-HIDE ICONS--*/
+
+.et_overlay:before {
+content: "" !important;
+}
