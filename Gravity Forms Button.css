@@ -12,3 +12,10 @@
 	border-color:rgba(37,142,166,1)!important; 
 	background-color:rgba(37,142,166,1)!important; 
 }
+
+
+/*--ALTERNATE--*/
+
+#gform_wrapper_1 input[type=submit]{
+	margin-right:15px; 
+}
