@@ -1,5 +1,18 @@
 @media only screen and (max-width: 1280px) and (min-width: 981px){
-#et_mobile_nav_menu {display: block;}}
+#et_mobile_nav_menu {display: block;}
+}
 
 @media only screen and (max-width: 1280px) and (min-width: 981px){
-#top-menu {display: none;}}
+#top-menu {display: none;}
+}
+
+/*--MID MENU BREAKPOINT--*/
+
+@media only screen and (max-width: 1142px) and (min-width: 961px) {
+#et_mobile_nav_menu {
+display: block;
+}
+#top-menu {
+display: none;
+}
+}
