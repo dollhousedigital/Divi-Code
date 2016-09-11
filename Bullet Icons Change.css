@@ -1,0 +1,16 @@
+/*--BULLET ICONS CHANGE--*/
+/*--BLUE TICKS--*/
+
+ul.special_bullet {
+list-style: none;
+}
+ul.special_bullet li:before {
+font-family: 'etModules';
+font-size: 1.2em;
+color: #5ca8f2;
+top: 0;
+margin-left: -15px;
+padding-right: 8px;
+border-width: 0;
+content: "\4e";
+}
