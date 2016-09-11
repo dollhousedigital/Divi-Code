@@ -1,0 +1,10 @@
+/*--SLIDER ARROWS IMAGE REPLACE--*/
+
+.et-pb-arrow-prev::before{
+content:url("/wp-content/uploads/") !important;
+font-family:arial !important;
+}
+.et-pb-arrow-next::before{
+content:url("/wp-content/uploads/") !important;
+font-family:arial !important;
+}
