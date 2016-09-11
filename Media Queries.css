@@ -1,0 +1,25 @@
+/*--DIVI MEDIA QUERIES--*/
+
+/*--IPAD LANDSCAPE--*/
+
+@media screen and (max-width: 1024px){
+
+}
+
+/*--IPAD PORTRAIT--*/
+
+@media screen and (max-width: 768px){
+
+}
+
+/*--IPHONE LANDSCAPE--*/
+
+@media screen and (max-width: 667px){
+
+}
+
+/*--IPHONE PORTRAIT--*/
+
+@media screen and (max-width: 480px){
+
+}
