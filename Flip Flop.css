@@ -5,6 +5,7 @@
 	display:inline-block; 
 }
 
+/*--FLIP FLOP MOBILE LANDSCAPE--*/
 
 @media screen and (max-width: 667px){
 
@@ -13,6 +14,8 @@
 		display:inline-block; 
 	}
 	}
+	
+/*--FLIP FLOP MOBILE PORTRAIT--*/	
 	
 	@media screen and (max-width: 480px){
 
