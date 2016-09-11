@@ -1,0 +1,7 @@
+/*--SLIDER SHADOW REMOVE--*/
+
+.et_pb_slider .et_pb_slide_description { 
+animation: 0s ease 0s normal none 1 running none !important; 
+text-shadow: none !important; 
+transition: none 0s ease 0s !important;
+}
