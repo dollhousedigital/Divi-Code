@@ -1,6 +1,6 @@
 # Divi-Code
 
-This is my simple storage of Divi CSS, HTML, PHP and jQuery code.
+This is my storage of Divi CSS, HTML, PHP and jQuery code.
 Added to this repository for my own ease of use during new builds.
 
 I have collected these from previous websites I have completed.
