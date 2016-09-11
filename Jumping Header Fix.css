@@ -10,3 +10,23 @@
 .post-0000 .et_pb_section:nth-child(1){
 	padding-top:60px; 
 }
+
+
+/*--TABLET PORTRAIT JUMPING HEADER FIX--*/
+
+@media screen and (max-width: 768px){
+
+.et_pb_fullwidth_header{
+	padding-top:100px !important; 
+}
+}
+
+
+/*--MOBILE LANDSCAPE JUMPING HEADER FIX--*/
+
+@media screen and (max-width: 667px){
+
+.et_pb_fullwidth_header{
+	padding-top:100px !important; 
+}
+}
