@@ -1,0 +1,14 @@
+/*--GRAVITY FORMS BUTTON 1--*/
+
+.whitepaper #gform_wrapper_1 input[type=submit]{
+	color:rgba(255,255,255,1); 
+	border-color:rgba(130,193,49,1); 
+	background-color:rgba(130,193,49,1); 
+	margin-right:20px; 
+}
+
+.whitepaperhover #gform_wrapper_1 input[type=submit]:hover{
+	color:rgba(255,255,255,1)!important; 
+	border-color:rgba(37,142,166,1)!important; 
+	background-color:rgba(37,142,166,1)!important; 
+}
