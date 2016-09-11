@@ -1,0 +1,23 @@
+/*--FLIP FLOP--*/
+
+.post-0000 .et_pb_section:nth-child(0) .et_pb_text p{
+	width:480px; 
+	display:inline-block; 
+}
+
+
+@media screen and (max-width: 667px){
+
+	.post-0000 .et_pb_section:nth-child(0) .et_pb_text p{
+		width:400px; 
+		display:inline-block; 
+	}
+	}
+	
+	@media screen and (max-width: 480px){
+
+	.post-0000 .et_pb_section:nth-child(0) .et_pb_text p{
+		width:300px; 
+		display:inline-block; 
+	}
+	}
