@@ -1,0 +1,12 @@
+/*--JUMPING HEADER FIX--*/
+
+.et_pb_fullwidth_header{
+	padding-top:64px!important; 
+}
+
+
+/*--INDIVIDUAL PAGE JUMPING HEADER FIX--*/
+
+.post-0000 .et_pb_section:nth-child(1){
+	padding-top:60px; 
+}
