@@ -1,0 +1,5 @@
+/*Insert code into Divi - Theme Options - Integration - Body*/
+
+<script>// <![CDATA[
+var th = jQuery('#top-header').height(); var hh = jQuery('#main-header').height(); var fh = jQuery('#main-footer').height(); var wh = jQuery(window).height(); var ch = wh - (th + hh + fh); jQuery('#main-content').css('min-height', ch);
+// ]]></script>
