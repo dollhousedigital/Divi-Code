@@ -1,0 +1,8 @@
+/*--FULLWIDTH HEADER MOBILE TEXT HEIGHT--*/
+
+@media screen and (max-width: 667px){
+
+.post-2478 .et_pb_section:nth-child(1) .et_pb_fullwidth_header h1{
+	margin-bottom:80px; 
+}
+}
