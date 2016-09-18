@@ -1,0 +1,10 @@
+/*--SLIDER ARROWS ALWAYS VISIBLE--*/
+
+.et-pb-arrow-next {
+opacity: 1;
+right: 22px;
+}
+.et-pb-arrow-prev{
+opacity: 1;
+left: 22px;
+}
