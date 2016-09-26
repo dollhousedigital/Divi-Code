@@ -1,0 +1,99 @@
+/*--iPad Portrait & Landscape--*/
+@media only screen 
+and (min-device-width : 768px) 
+and (max-device-width : 1024px)  {
+}
+
+/*--iPad Landscape--*/
+@media only screen 
+and (min-device-width : 768px) 
+and (max-device-width : 1024px) 
+and (orientation : landscape) {
+}
+
+/*--iPad Portrait--*/
+@media only screen 
+and (min-device-width : 768px) 
+and (max-device-width : 1024px) 
+and (orientation : portrait) {
+}
+
+/*--iPhone 6 Plus Portrait & Landscape--*/
+@media only screen 
+and (min-device-width : 414px) 
+and (max-device-width : 736px) {
+}
+
+/*--iPhone 6 Plus Landscape--*/
+@media only screen 
+and (min-device-width : 414px) 
+and (max-device-width : 736px) 
+and (orientation : landscape) {
+}
+
+/*--iPhone 6 Plus Portrait--*/
+@media only screen 
+and (min-device-width : 414px) 
+and (max-device-width : 736px) 
+and (orientation : portrait) {
+}
+
+/*--iPhone 6 Portrait & Landscape--*/
+@media only screen 
+and (min-device-width : 375px) 
+and (max-device-width : 667px) {
+}
+
+/*--iPhone 6 Landscape--*/
+@media only screen 
+and (min-device-width : 375px) 
+and (max-device-width : 667px) 
+and (orientation : landscape) {
+}
+
+/*--iPhone 6 Portrait--*/
+@media only screen 
+and (min-device-width : 375px) 
+and (max-device-width : 667px) 
+and (orientation : portrait) {
+}
+
+/*--iPhone 5 Portrait & Landscape--*/
+@media only screen 
+and (min-device-width : 320px) 
+and (max-device-width : 568px) {
+}
+
+/*--iPhone 5 Landscape--*/
+@media only screen 
+and (min-device-width : 320px) 
+and (max-device-width : 568px) 
+and (orientation : landscape) {
+}
+
+/*--iPhone 5 Portrait--*/
+@media only screen 
+and (min-device-width : 320px) 
+and (max-device-width : 568px) 
+and (orientation : portrait) {
+}
+
+/*--iPhone 4 Portrait & Landscape--*/
+@media only screen 
+and (min-device-width : 320px) 
+and (max-device-width : 480px) {
+}
+
+/*--iPhone 4 Landscape--*/
+@media only screen 
+and (min-device-width : 320px) 
+and (max-device-width : 480px) 
+and (orientation : landscape) {
+}
+
+/*--iPhone 4 Portrait--*/
+@media only screen 
+and (min-device-width : 320px) 
+and (max-device-width : 480px) 
+and (orientation : portrait) {
+}
