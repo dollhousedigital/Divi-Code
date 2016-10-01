@@ -1,0 +1,9 @@
+/*--SOCIAL MEDIA ICONS CENTERED--*/
+ul.et_pb_social_media_follow { 
+width:100%; 
+text-align:center; 
+margin: 0 0 0 0 ; 
+} .et_pb_social_media_follow li { 
+float:none; 
+display:inline-block; 
+}
