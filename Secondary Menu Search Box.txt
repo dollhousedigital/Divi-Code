@@ -1,0 +1,16 @@
+Search Box in Secondary Menu bar
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Add the following code in header.php file
+
+<?php get_search_form(); ?>
+
+You have to insert this code before
+</div> <!– .container –>
+</div> <!– ‪#top‬-header –>
+
+Add the following code in Custom CSS
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+‪#searchform‬ { float: right; }
+.screen-reader-text { display: none; }
+
+PHP code creates the search box in secondary menu bar. CSS code make it right aligned in the menu & remove the “Search for:” text from it.
