@@ -1,0 +1,19 @@
+html body header#main-header #logo {
+    margin-top:15px;
+    max-height: 70%;
+}
+
+
+
+
+@media only screen and (min-width: 1120px) and (max-device-width : 5000px){
+html body header#main-header #logo {
+    max-height: 70%;
+}
+}
+
+@media only screen and (min-width: 700px) and (max-device-width : 1119px)  {
+html body header#main-header #logo {
+    max-height: 50%;
+}
+}
