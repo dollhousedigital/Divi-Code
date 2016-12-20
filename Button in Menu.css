@@ -25,3 +25,32 @@
  
     @media only screen and (min-width : 981px) {
             li.menu-button {height: 33px;}}
+
+
+
+/*--MENU BUTTON--*/
+
+            .menu-button {border-radius: 0px; margin-bottom:15px;}
+            .menu-button a {color: #fff!important;}
+            li.menu-button {
+                background-color:#464646; 
+                font-weight: 700; 
+                text-transform: uppercase; 
+                text-align: center; 
+                padding: 10px 10px 10px!important;
+            border-radius: 0px;
+                -moz-transition: all 0.5s; 
+                -webkit-transition: all 0.5s;
+                transition: all 0.5s;}
+            li.menu-button:hover {background-color:#464646;}
+ 
+/*--MENU BUTTON TEXT COLOUR--*/
+
+                 .et-fixed-header #top-menu .menu-button a {
+                        color: #fff!important;}
+        .menu-button li.current-menu-ancestor > a, .menu-button li.current-menu-item > a {
+                    color: #fff !important;}
+ 
+    @media only screen and (min-width : 1200px) {
+            li.menu-button {height: 33px;}
+}
