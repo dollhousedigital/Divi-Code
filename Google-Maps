@@ -1,0 +1,8 @@
+/*--GOOGLE MAP HEIGHT--*/
+.post-362 .et_pb_map { 
+    height: 432px!important;
+}
+
+.et_pb_map { 
+    height: 300px!important;
+}
