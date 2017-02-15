@@ -1,0 +1,37 @@
+/*--CALDERA BUTTON CENTRE*/
+.caldera-grid .btn {
+    display: block !important;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/*--CALDERA BUTTON FULL WIDTH--*/
+.caldera-grid .btn {
+    width:100%
+}
+
+/*--CALDERA BUTTON--*/
+.caldera-grid .btn {
+    background-color:#fff !important;
+    color:#000 !important;
+    border-style: solid !important;
+    border-width:2px !important;
+    border-color:#000 !important;
+}
+
+/*--CALDERA BUTTON HOVER--*/
+.caldera-grid .btn:hover {
+    background-color:#000 !important;
+    color:#fff !important;
+    border-style: solid !important;
+    border-width:2px !important;
+    border-color:#000 !important;
+}
+
+/*--CALDERA ELEMENT BORDER COLOR--*/
+.caldera-grid .form-control {
+    background-color: #fff;
+    border: 1px solid #000 !important;
+    border-radius: 1px !important;
+    box-shadow: none !important;
+}
