@@ -17,3 +17,9 @@
   transform: scale(1.05);
   border-radius:5px;
 }
+
+/*--INTERNET EXPLORER FIX--*/
+.et_pb_image img{
+	width:100%!important; 
+	height:100%!important; 
+}
