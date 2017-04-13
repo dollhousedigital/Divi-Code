@@ -1,0 +1,10 @@
+/*--TESTIMONIAL SLIDER ARROWS NO HIDE--*/
+.et-pb-arrow-prev {
+    opacity:1 !important;
+    left:22px;
+}
+
+.et-pb-arrow-next {
+    opacity:1 !important;
+    right:22px;
+}
