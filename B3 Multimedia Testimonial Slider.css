@@ -8,3 +8,13 @@
     opacity:1 !important;
     right:22px;
 }
+
+/*--TESTIMONIAL SLIDER HIDE ARROWS TABLET MOBILE--*/
+@media only screen and (max-width:1024px) {
+    .et-pb-arrow-prev  {
+    opacity:0 !important;
+}
+ .et-pb-arrow-next {
+    opacity:0 !important;
+}
+}
